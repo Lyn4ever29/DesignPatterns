@@ -1,4 +1,4 @@
-#	模板方法设计模式
+#	[模板方法模式](https://github.com/Lyn4ever29/DesignPatterns/tree/master/TemplateMethod)
 
 拿我们最熟悉的一个软件开发流程为例，进行一个项目开发，主要进行以下步骤：
 
@@ -79,7 +79,7 @@ public abstract class ProductTemplate {
 
 
 
-# 门面模式
+# [门面模式(外观模式)](https://github.com/Lyn4ever29/DesignPatterns/tree/master/FacdePattern)
 
 门面模式，又称外观模式，就是对外提供一个可访问的接口，而隐藏自身的实现。
 

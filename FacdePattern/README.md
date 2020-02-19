@@ -25,3 +25,5 @@
 # 更多学习教程
 
 请关注我们微信公众号“小鱼与Java”
+
+![更多的设计模式学习](https://lyn4ever.gitee.io/img/wx/gzh2.png)
